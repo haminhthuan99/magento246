@@ -1,0 +1,6 @@
+cache/*
+page_cache/*
+sessions/*
+composer_home/cache/*
+|composer_home/cache/.htaccess
+!.gitignore
